@@ -5,8 +5,8 @@
 - 😄 Pronomes: ele/dele
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img <img height="160em" src"link" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdouglas-cd&show_icons=true&theme=transparent&locale=pt-BR&rank_icon=github" />
+  <img <img width="40%" src"link" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdouglas-cd&show_icons=true&theme=transparent&locale=pt-BR&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img <img height="160em" src"link" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdouglas-cd&locale=pt-BR&theme=transparent&layout=compact&langs_count=8&card_width=300" />
+  <img <img width="55%" src"link" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdouglas-cd&locale=pt-BR&theme=transparent&layout=compact&langs_count=8&card_width=300" />
 </a>
