@@ -1,7 +1,7 @@
 ## Olá, eu sou Douglas!
 
 - 🔭 Atualmente trabalhando como Analista de Suporte
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Cursando Ciência da Computação
 - 😄 Pronomes: ele/dele
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
